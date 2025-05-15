@@ -38,36 +38,41 @@ Make sure you have Python installed (preferably 3.8+).
 python --version
 Installation
 Clone the repository
+```
 
-bash
+```bash
 Copy
 Edit
 git clone https://github.com/yourusername/python-chat-app.git
 cd python-chat-app
 Create a virtual environment (optional but recommended)
+```
 
-bash
+```bash
 Copy
 Edit
 python -m venv venv
 source venv/bin/activate    # Linux/macOS
 venv\Scripts\activate       # Windows
 Install dependencies
+```
 
-bash
+```bash
 Copy
 Edit
 pip install -r requirements.txt
 Run the app
+```
 
-bash
+```bash
 Copy
 Edit
 python app.py
 Open your browser and navigate to:
 http://localhost:5000
+```
 
-📂 Project Structure
+## 📂 Project Structure
 cpp
 Copy
 Edit
@@ -82,7 +87,7 @@ python-chat-app/
 ├── app.py
 ├── requirements.txt
 └── README.md
-🔧 Future Improvements
+## 🔧 Future Improvements
 ✅ Private/Group Chat Rooms
 
 ✅ Chat History Storage (using SQLite or MongoDB)
