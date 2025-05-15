@@ -41,34 +41,35 @@ Clone the repository
 ```
 
 ```bash
-Copy
-Edit
 git clone https://github.com/yourusername/python-chat-app.git
 cd python-chat-app
-Create a virtual environment (optional but recommended)
 ```
 
+Create a virtual environment (optional but recommended)
+
 ```bash
-Copy
-Edit
 python -m venv venv
+```
+```bash
 source venv/bin/activate    # Linux/macOS
 venv\Scripts\activate       # Windows
+```
+
 Install dependencies
-```
 
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the app
 ```
 
+Run the app
+
 ```bash
-Copy
-Edit
 python app.py
+```
+
 Open your browser and navigate to:
+
+```bash
 http://localhost:5000
 ```
 
