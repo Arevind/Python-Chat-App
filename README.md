@@ -14,12 +14,6 @@ A real-time chat application built using **Python**, **Flask**, and **Socket.IO*
 
 ---
 
-## 📸 Screenshots
-
-![Chat UI Preview](link-to-your-screenshot.png)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
