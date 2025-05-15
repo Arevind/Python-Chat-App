@@ -73,21 +73,6 @@ Open your browser and navigate to:
 http://localhost:5000
 ```
 
-## 📂 Project Structure
-cpp
-Copy
-Edit
-python-chat-app/
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── templates/
-│   └── index.html
-├── app.py
-├── requirements.txt
-└── README.md
 ## 🔧 Future Improvements
 ✅ Private/Group Chat Rooms
 
