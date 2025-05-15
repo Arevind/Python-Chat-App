@@ -1,4 +1,4 @@
-#🗨️ Python Chat App
+# 🗨️ Python Chat App
 
 A real-time chat application built using **Python**, **Flask**, and **Socket.IO**, with a responsive frontend powered by **HTML**, **CSS**, and **JavaScript**. This project demonstrates real-time communication between multiple users with features like username updates, avatars, and smooth message handling.
 
